@@ -1,4 +1,4 @@
-### Hi there 👋
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=chemiclast&count=10&width=1000)](https://www.last.fm/user/chemiclast)
 
 <!--
 **chemiclast/chemiclast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
