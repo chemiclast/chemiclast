@@ -1,11 +1,11 @@
 ## Stats
 
-GitHub user for **3** years\
-Pushed **4240** commits\
-Opened **14** issues\
-Submitted **17** pull requests\
-Created **28** personal repositories\
-Contributed to **3** public repositories
+- GitHub user for **3** years
+- Pushed **4242** commits
+- Opened **14** issues
+- Submitted **17** pull requests
+- Created **28** personal repositories
+- Contributed to **3** public repositories
 
 ## Languages
 
@@ -25,5 +25,7 @@ Contributed to **3** public repositories
 
 <img src="https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ff3e00&message=Svelte%EF%B8%B10.2%25" height="30" alt="Svelte">
 
-<img src="https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25" height="30" alt="Other">
+<img src="https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B10.2%25" height="30" alt="HTML">
+
+<img src="https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25" height="30" alt="Other">
 
