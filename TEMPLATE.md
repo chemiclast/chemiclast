@@ -9,4 +9,4 @@
 
 ## Languages
 
-{{ LANGUAGE_TEMPLATE_START:max=10 }}<img src="https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25" height="30" alt="{{LANGUAGE_NAME}}"> {{ LANGUAGE_TEMPLATE_END }}
+{{ LANGUAGE_TEMPLATE_START:max=10 }}<img src="https://img.shields.io/static/v1?style=plastic&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25" height="25" alt="{{LANGUAGE_NAME}}">   {{ LANGUAGE_TEMPLATE_END }}
