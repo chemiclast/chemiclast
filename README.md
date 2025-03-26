@@ -5,7 +5,7 @@
 - Opened **15** issues
 - Submitted **18** pull requests
 - Created **33** personal repositories
-- Contributed to **3** public repositories
+- Contributed to **2** public repositories
 
 ## Languages
 
